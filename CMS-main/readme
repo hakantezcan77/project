@@ -1,3 +1,0 @@
-Mijn reden om Drupal te kiezen was omdat er een Belgische ontwikkelaar bij betrokken was. Enkele van de beste Drupal-websites wereldwijd zijn: https://keap.com/, https://news.abs-cbn.com/, https://www.nasa.gov/.
-
-Installatie: Eerst maken we een docker-compose.yml bestand aan en voegen we een basisstructuur toe waarin we de Drupal- en Postgres-services definiëren. Vervolgens gebruiken we het commando docker-compose up -d in de cmd om de benodigde containers aan te maken. Daarna voltooien we de installatie door naar de localhost te gaan en het vereiste poortnummer in te voeren.
